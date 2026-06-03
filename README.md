@@ -9,6 +9,13 @@
 - Built an interactive Tableau dashboard tracking 6 KPIs with drill-down filters
 - Found that top 3 return-heavy categories drive 28%+ of all returns
 
+  ##📌 Key Findings
+- 📈 **Peak revenue** occurred in Q4 2017 — 38% above annual monthly average
+- 🛒 **AOV** held steady at ~R$160 despite volume spikes, indicating healthy pricing
+- 👥 **Champions + Loyal** customers = 42% of total revenue despite being 28% of base
+- 🔁 Top 3 high-return categories drove **28% of all returns** → SKU rationalisation recommended (~8% margin improvement projected)
+
+
 ## Dashboard
 🔗 [View Live on Tableau Public](https://public.tableau.com/views/E-CommerceSalesAnalysis_17803859303110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 )
